@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "WinGatewayFixer": {
+      "commandName": "Project",
+      "commandLineArgs": "Ethernet"
+    }
+  }
+}
